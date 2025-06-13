@@ -1,2 +1,6 @@
 # Autism-Detection-from-Behavioral-Data-
-A basic prototype using machine learning to detect Autism Spectrum Disorder (ASD) from non-clinical data. Models like Random Forest and XGBoost achieved 99.67% accuracy. Future plans include scaling the project with deep learning for more advanced, real-time ASD screening solutions.
+This project is a foundational prototype aimed at the early detection of Autism Spectrum Disorder (ASD) using machine learning models applied to non-clinical data. It uses three publicly available datasets that include responses from toddlers, adults, and a mixed-age group. After data cleaning and preprocessing, sixteen key features were selected, including responses from autism-related questionnaires and demographic attributes.
+
+Multiple machine learning models were trained and evaluated, including Logistic Regression, Support Vector Machine (SVM), Decision Tree, Random Forest, XGBoost, and Gradient Boosting. Among these, ensemble methods such as Random Forest and XGBoost performed best, reaching an accuracy of 99.67 percent. These results highlight the potential of AI-driven solutions in making ASD screening more accessible, especially outside clinical environments.
+
+This is an early-stage project and currently serves as a basic prototype. In the future, the plan is to scale the system further by incorporating deep learning techniques and expanding the dataset to build a more advanced and generalized model for broader and real-time ASD screening applications.
